@@ -45,7 +45,7 @@ To get started with the project, simply clone or download the repository to your
 
 The SAAB Car Sales Analysis project for January 2023 aims to provide a comprehensive understanding of the sales performance, revenue generation, and other key metrics related to SAAB cars in Sweden during that month. The Power BI report and associated visualizations offer valuable insights for stakeholders, sales teams, and decision-makers in the automotive industry.
 
-We invite you to dive into the SAAB Car Sales Analysis for January 2023, empowering you to make data-driven decisions and uncover valuable insights that drive success in the automotive industry.
+I invite you to dive into the SAAB Car Sales Analysis for January 2023, empowering you to make data-driven decisions and uncover valuable insights that drive success in the automotive industry.
 
 
 
