@@ -33,5 +33,19 @@ Here, the project highlights the revenue generated from specific customers, part
 
 This section focuses on the quantity of SAAB cars sold by specific models during January 2023. It provides visualizations and metrics that help understand the popularity of different SAAB models and identify the best-selling models for the given period.
 
+## Requirements
+
+To utilize the Power BI report, you will need to have Power BI Desktop installed on your machine. The report file is included in the repository and can be downloaded for analysis or further customization.
+
+## Getting Started
+
+To get started with the project, simply clone or download the repository to your local machine. The Power BI report file is located in the designated folder, and you can open it using Power BI Desktop to explore the data and visualizations.
+
+## Conclusion
+
+The SAAB Car Sales Analysis project for January 2023 aims to provide a comprehensive understanding of the sales performance, revenue generation, and other key metrics related to SAAB cars in Sweden during that month. The Power BI report and associated visualizations offer valuable insights for stakeholders, sales teams, and decision-makers in the automotive industry.
+
+We invite you to dive into the SAAB Car Sales Analysis for January 2023, empowering you to make data-driven decisions and uncover valuable insights that drive success in the automotive industry.
+
 
 
